@@ -1,0 +1,6 @@
+{
+  "name": "SAMURAI",
+  "description": "An award-winning, cinematic, fully animated immersive dining experience and ordering platform. Savor exceptional modern sushi, teppanyaki, and wok creations.",
+  "requestFramePermissions": ["audio-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
